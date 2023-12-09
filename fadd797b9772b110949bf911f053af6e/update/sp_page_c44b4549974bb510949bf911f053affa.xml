@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <css/>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <human_readable_url_structure/>
+        <id>ze_assigned_to_me</id>
+        <internal>false</internal>
+        <omit_watcher>false</omit_watcher>
+        <public>false</public>
+        <roles>x_1259542_gest_o_0.analistas_role</roles>
+        <seo_script/>
+        <short_description>Lista pedidos assignados ao analista</short_description>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 19:28:54</sys_created_on>
+        <sys_id>c44b4549974bb510949bf911f053affa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ze_assigned_to_me</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1259542_gest_o_0">fadd797b9772b110949bf911f053af6e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">fadd797b9772b110949bf911f053af6e</sys_scope>
+        <sys_update_name>sp_page_c44b4549974bb510949bf911f053affa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 19:28:54</sys_updated_on>
+        <title>Assigned to me</title>
+        <use_seo_script>false</use_seo_script>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=c44b4549974bb510949bf911f053affa"/>
+</record_update>
